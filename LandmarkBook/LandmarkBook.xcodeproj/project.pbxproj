@@ -13,6 +13,11 @@
 		62FE18932802410F00FC18D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 62FE18912802410F00FC18D4 /* Main.storyboard */; };
 		62FE18952802411100FC18D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 62FE18942802411100FC18D4 /* Assets.xcassets */; };
 		62FE18982802411100FC18D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 62FE18962802411100FC18D4 /* LaunchScreen.storyboard */; };
+		62FE18A42802470300FC18D4 /* greatwall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 62FE189F2802470300FC18D4 /* greatwall.jpg */; };
+		62FE18A52802470300FC18D4 /* stonehenge.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 62FE18A02802470300FC18D4 /* stonehenge.jpg */; };
+		62FE18A62802470300FC18D4 /* kremlin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 62FE18A12802470300FC18D4 /* kremlin.jpg */; };
+		62FE18A72802470300FC18D4 /* tajmahal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 62FE18A22802470300FC18D4 /* tajmahal.jpg */; };
+		62FE18A82802470300FC18D4 /* colosseum.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 62FE18A32802470300FC18D4 /* colosseum.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +29,11 @@
 		62FE18942802411100FC18D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		62FE18972802411100FC18D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		62FE18992802411100FC18D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		62FE189F2802470300FC18D4 /* greatwall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = greatwall.jpg; path = "../../../../../Downloads/IOS12-LandmarkBook-master/LandmarkBook/greatwall.jpg"; sourceTree = "<group>"; };
+		62FE18A02802470300FC18D4 /* stonehenge.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = stonehenge.jpg; path = "../../../../../Downloads/IOS12-LandmarkBook-master/LandmarkBook/stonehenge.jpg"; sourceTree = "<group>"; };
+		62FE18A12802470300FC18D4 /* kremlin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = kremlin.jpg; path = "../../../../../Downloads/IOS12-LandmarkBook-master/LandmarkBook/kremlin.jpg"; sourceTree = "<group>"; };
+		62FE18A22802470300FC18D4 /* tajmahal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tajmahal.jpg; path = "../../../../../Downloads/IOS12-LandmarkBook-master/LandmarkBook/tajmahal.jpg"; sourceTree = "<group>"; };
+		62FE18A32802470300FC18D4 /* colosseum.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = colosseum.jpg; path = "../../../../../Downloads/IOS12-LandmarkBook-master/LandmarkBook/colosseum.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +66,11 @@
 		62FE188A2802410F00FC18D4 /* LandmarkBook */ = {
 			isa = PBXGroup;
 			children = (
+				62FE18A32802470300FC18D4 /* colosseum.jpg */,
+				62FE189F2802470300FC18D4 /* greatwall.jpg */,
+				62FE18A12802470300FC18D4 /* kremlin.jpg */,
+				62FE18A02802470300FC18D4 /* stonehenge.jpg */,
+				62FE18A22802470300FC18D4 /* tajmahal.jpg */,
 				62FE188B2802410F00FC18D4 /* AppDelegate.swift */,
 				62FE188D2802410F00FC18D4 /* SceneDelegate.swift */,
 				62FE188F2802410F00FC18D4 /* ViewController.swift */,
@@ -125,9 +140,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62FE18A52802470300FC18D4 /* stonehenge.jpg in Resources */,
 				62FE18982802411100FC18D4 /* LaunchScreen.storyboard in Resources */,
 				62FE18952802411100FC18D4 /* Assets.xcassets in Resources */,
+				62FE18A72802470300FC18D4 /* tajmahal.jpg in Resources */,
 				62FE18932802410F00FC18D4 /* Main.storyboard in Resources */,
+				62FE18A62802470300FC18D4 /* kremlin.jpg in Resources */,
+				62FE18A82802470300FC18D4 /* colosseum.jpg in Resources */,
+				62FE18A42802470300FC18D4 /* greatwall.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
